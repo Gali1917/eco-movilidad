@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --color1: #01A7E7;
+}
+main{
+  height: 100dvh;
+  position: relative;
+}

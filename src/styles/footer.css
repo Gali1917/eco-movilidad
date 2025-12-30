@@ -1,0 +1,12 @@
+.footer-container {
+  position: sticky;
+  bottom: 0;
+  width: 100dvw;
+  padding: 12px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 24px;
+  box-shadow: 0px 0px 16px -8px black;
+  background-color: white;
+  z-index: 2;
+}

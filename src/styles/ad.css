@@ -1,0 +1,32 @@
+.home-page-ad-container {
+  position: relative;
+  width: 100dvw;
+}
+.home-page-ad-container img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}
+.home-page-ad-text-container {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  color: white;
+  text-align: start;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.home-page-ad-text-container h2,
+.home-page-ad-text-container p,
+.home-page-ad-text-container button{
+    margin-left: 12px;
+}
+.button-home-page-ad-container{
+    margin: 12px 0;
+    padding: 4px 8px;
+    border-radius: 20px;
+    border: none;
+    background-color: var(--color1);
+    color: white;
+    font-weight: bold;
+}
