@@ -12,7 +12,7 @@ const Header = () => {
       </div>
       <div className="logo-img-container">
         <img
-          src="https://res.cloudinary.com/dd8a6qc45/image/upload/v1767056900/EcoMovilidad/assets/logo_split_pr3cbc.png"
+          src="https://res.cloudinary.com/dd8a6qc45/image/upload/v1768281785/EcoMovilidad/assets/logo-split_ycatxp.png"
           alt="Logo"
         />
       </div>

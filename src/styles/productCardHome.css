@@ -7,6 +7,12 @@
   margin: 12px;
   box-shadow: 0 0 12px -8px black;
   border-radius: 12px;
+  background: #a3c61a;
+  background: linear-gradient(
+    320deg,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(248, 255, 219, 0.9) 100%
+  );
 }
 .img-product-card-home-container {
   height: 100%;

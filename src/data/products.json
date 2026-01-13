@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "nombre": "COCO",
+    "precio": 7500000,
+    "especificaciones": {
+      "bateria": "Litio",
+      "autonomia": "50-55 km",
+      "velocidad_max": "50 km/h",
+      "motor": "",
+      "tiempo_carga": ""
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267785/EcoMovilidad/products/coco/cdf13ef7-6261-49c4-bed3-377d334d9499_zhd3nk.jpg"
+    ],
+    "descripcion_corta": "Moto eléctrica ideal para trayectos cortos en la ciudad."
+  },
+  {
+    "id": 2,
+    "nombre": "HALCÓN EB-4",
+    "precio": 3800000,
+    "especificaciones": {
+      "bateria": "Plomo 60V 20Ah",
+      "autonomia": "45-50 km",
+      "velocidad_max": "35 km/h",
+      "motor": "350W",
+      "tiempo_carga": ""
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/halcon%20eb-4/c47dd30d-d4dd-484d-95ca-f654d5a12dbe_lpttsa.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/halcon%20eb-4/cba06742-9205-4a18-81e4-882381e5b5ba_eurcg0.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/halcon%20eb-4/82543b2e-46ce-4144-8dc5-de638cb6a526_mrzvtv.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/halcon%20eb-4/06c274f1-06f5-4a2f-8ff3-1cb2acb026e7_enpqmy.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267751/EcoMovilidad/products/halcon%20eb-4/d03fcad1-5c74-48d7-941b-3155232b83de_hops2m.jpg"
+    ],
+    "descripcion_corta": "Scooter eléctrico económico y eficiente para desplazamientos urbanos."
+  },
+  {
+    "id": 3,
+    "nombre": "FAMILY P7",
+    "precio": 7500000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "55 km",
+      "velocidad_max": "35 km/h",
+      "motor": "800W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/FAMILY%20P7/cdda4acc-494a-4d2a-acd3-6d9b742afbce_vseaeu.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267719/EcoMovilidad/products/FAMILY%20P7/b756265a-7691-459f-8d7a-b9e05243857d_sef7l7.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/FAMILY%20P7/53169854-52c2-4f5b-87c2-06757f1a8e3d_fkqrbs.jpg",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Moto eléctrica familiar con buena autonomía y potencia."
+  },
+  {
+    "id": 4,
+    "nombre": "MI BIKE",
+    "precio": 1500000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "30 km",
+      "velocidad_max": "25 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267780/EcoMovilidad/products/MI%20BIKE/ce74851d-e241-4672-9db0-de15032140bf_si0gag.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267779/EcoMovilidad/products/MI%20BIKE/a5d06ea7-afd8-4957-ba5f-d7919ac48adf_ym7dux.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267777/EcoMovilidad/products/MI%20BIKE/0dc2dfc5-ea10-40eb-bf37-6ddd03bb2832_q5cqii.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267779/EcoMovilidad/products/MI%20BIKE/4c5f91a1-f428-4c46-ae02-141ad2e831b9_ydfssa.jpg",
+      ""
+    ],
+    "descripcion_corta": "Bicicleta eléctrica compacta y ligera para la movilidad urbana."
+  },
+  {
+    "id": 5,
+    "nombre": "M-10",
+    "precio": 3800000,
+    "especificaciones": {
+      "bateria": "Plomo extraible",
+      "autonomia": "20 km",
+      "velocidad_max": "15 km/h",
+      "motor": "",
+      "tiempo_carga": "3-5 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267776/EcoMovilidad/products/M-10/bc40d216-0ee4-49b3-9130-7b9b37a9a957_jtjzed.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267776/EcoMovilidad/products/M-10/9262da05-460b-42da-9554-75f81fa4600f_nff4ab.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267776/EcoMovilidad/products/M-10/c2faea41-469e-4227-9170-2501e5e8bab3_z6piac.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267776/EcoMovilidad/products/M-10/ebeb5c8d-e182-4341-b703-8e8ab824ca24_dxnxzk.jpg",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto con batería extraíble para fácil carga."
+  },{
+    "id": 6,
+    "nombre": "M-12",
+    "precio": 4000000,
+    "especificaciones": {
+      "bateria": "Plomo extraible",
+      "autonomia": "20 km",
+      "velocidad_max": "15 km/h",
+      "motor": "",
+      "tiempo_carga": "3-5 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267777/EcoMovilidad/products/M-12/ec8e4862-8085-456d-b854-a7feb2a5660c_osfxc7.jpg",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico mejorado con mayor potencia y autonomía."
+  },{
+    "id": 7,
+    "nombre": "GIRL 3",
+    "precio": 4200000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "40 km",
+      "velocidad_max": "35 km/h",
+      "motor": "",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/GIRL%203/5682be30-d8c2-4f0b-a6eb-2de17fee23f8_hvis8q.jpg",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "descripcion_corta": ""
+  },{
+    "id": 8,
+    "nombre": "APOLO EB-11",
+    "precio": 4000000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50 km",
+      "velocidad_max": "40 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267783/EcoMovilidad/products/APOLO%20EB-11/d9f44cc6-0df7-4656-ad35-8852d14bc1fa_yjssu1.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267783/EcoMovilidad/products/APOLO%20EB-11/aa377aa7-a3a0-49d4-b2ec-27e077fe4bf2_vbgmef.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267783/EcoMovilidad/products/APOLO%20EB-11/27e7e0ae-f586-46df-9221-a91fc17debc4_su1dvk.jpg",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico con buen rendimiento y autonomía para uso diario."
+  },{
+    "id": 9,
+    "nombre": "XMEN",
+    "precio": 7500000,
+    "especificaciones": {
+      "bateria": "Litio",
+      "autonomia": "60 km",
+      "velocidad_max": "60-65 km/h",
+      "motor": "1500W",
+      "tiempo_carga": "4-6 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267782/EcoMovilidad/products/XMEN/69a08921-7700-428b-b486-0b9efbdc3488_fyhc8t.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267782/EcoMovilidad/products/XMEN/3f7e1ef0-3940-4e1a-b54d-72d396323e1a_cxtmew.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267783/EcoMovilidad/products/XMEN/86e69dc3-563d-4d43-a91e-c6a1b5b0111b_ofifom.jpg",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Moto eléctrica potente con alta autonomía para largas distancias."
+  }
+]

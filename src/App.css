@@ -4,9 +4,11 @@
   box-sizing: border-box;
 }
 :root{
-  --color1: #01A7E7;
+  --color1: #113961;
+  --color2: #A3C61A;
 }
 main{
-  height: 100dvh;
+  min-height: 100dvh;
   position: relative;
+  background-color: #d3d3d3;
 }
