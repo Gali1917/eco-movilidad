@@ -94,7 +94,8 @@
       ""
     ],
     "descripcion_corta": "Scooter eléctrico compacto con batería extraíble para fácil carga."
-  },{
+  },
+  {
     "id": 6,
     "nombre": "M-12",
     "precio": 4000000,
@@ -113,7 +114,8 @@
       ""
     ],
     "descripcion_corta": "Scooter eléctrico mejorado con mayor potencia y autonomía."
-  },{
+  },
+  {
     "id": 7,
     "nombre": "GIRL 3",
     "precio": 4200000,
@@ -132,7 +134,8 @@
       ""
     ],
     "descripcion_corta": ""
-  },{
+  },
+  {
     "id": 8,
     "nombre": "APOLO EB-11",
     "precio": 4000000,
@@ -151,7 +154,8 @@
       ""
     ],
     "descripcion_corta": "Scooter eléctrico con buen rendimiento y autonomía para uso diario."
-  },{
+  },
+  {
     "id": 9,
     "nombre": "XMEN",
     "precio": 7500000,
@@ -170,5 +174,159 @@
       ""
     ],
     "descripcion_corta": "Moto eléctrica potente con alta autonomía para largas distancias."
+  },
+  {
+    "id": 10,
+    "nombre": "Patineta T1",
+    "precio": 1500000,
+    "especificaciones": {
+      "bateria": "Litio",
+      "autonomia": "25-35 km",
+      "velocidad_max": "25 km/h",
+      "motor": "1500W",
+      "tiempo_carga": "3-4 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331656/EcoMovilidad/products/Patineta%20T1/4958a461-28a7-44ba-a284-af162496a236_dwrlfr.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331659/EcoMovilidad/products/Patineta%20T1/72074139-c58a-480c-9b4d-e92699aae7e3_iq1sfu.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331659/EcoMovilidad/products/Patineta%20T1/99f24b51-b45d-46a7-b525-fc13a1127dd7_ro5qw7.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331659/EcoMovilidad/products/Patineta%20T1/ebb40410-e113-4484-8993-d2424eb75482_ck1yvr.jpg",
+      ""
+    ],
+    "descripcion_corta": "Comandos por el celular mediante aplicacion móvil (encendido, bloqueo, GPS, batería)."
+  },
+  {
+    "id": 11,
+    "nombre": "Aguila Pro",
+    "precio": 5400000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50 km",
+      "velocidad_max": "45 km/h",
+      "motor": "350/1000W",
+      "tiempo_carga": "6 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331655/EcoMovilidad/products/Aguila%20Pro/1ccdec70-ab72-4106-98aa-d97819837dbc_tvhfdp.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331656/EcoMovilidad/products/Aguila%20Pro/a5470b46-7a87-4d60-a0e4-cefcb879c5ab_iqgt3j.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331655/EcoMovilidad/products/Aguila%20Pro/280c0bda-13e9-4e0b-a3f0-bb34e28379f6_vtjcgc.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331655/EcoMovilidad/products/Aguila%20Pro/4a68caa2-a775-48b5-8ae7-c05a1e2555d7_pnw1ge.jpg",
+      ""
+    ],
+    "descripcion_corta": "Cuenta con freno de disco delantero y trasero, suspensión delantera y trasera, luces LED delanteras y traseras."
+  },
+  {
+    "id": 12,
+    "nombre": "FAMILY 1",
+    "precio": 4500000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50 km",
+      "velocidad_max": "35 km/h",
+      "motor": "650W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331655/EcoMovilidad/products/FAMILY%201/31134003-a1de-4eab-8ba3-99c7469f76d1_wwoqmy.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331655/EcoMovilidad/products/FAMILY%201/6b6a959a-5ec6-4728-a53c-cf92d113caa5_nfdmmu.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331655/EcoMovilidad/products/FAMILY%201/eddf13d3-87f1-4fcb-96de-5687e914a725_jq4yiw.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331655/EcoMovilidad/products/FAMILY%201/632f2a66-8c9b-45a7-9e50-de20907a9778_qyzgqx.jpg",
+      ""
+    ],
+    "descripcion_corta": "Moto eléctrica familiar con buena autonomía y potencia."
+  },
+  {
+    "id": 13,
+    "nombre": "MOPED GT",
+    "precio": 4200000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50 km",
+      "velocidad_max": "35 km/h",
+      "motor": "800W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331652/EcoMovilidad/products/MOPED%20GT/d3f0effa-899a-41f2-8ab9-11c6ce10ac3b_wzgdcc.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331652/EcoMovilidad/products/MOPED%20GT/d4415fa5-bc4c-4583-9d63-da88dce0b830_t0d7rs.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331652/EcoMovilidad/products/MOPED%20GT/9dbee111-b2c6-48a8-90a1-4fdc6840669c_y07kbr.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331652/EcoMovilidad/products/MOPED%20GT/a7479e29-cb28-41e6-a974-c177b7230476_z5bom1.jpg",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico con diseño moderno y buen rendimiento para la ciudad."
+  },
+  {
+    "id": 14,
+    "nombre": "SPORT 350",
+    "precio": 4500000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50 km",
+      "velocidad_max": "35-40 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331651/EcoMovilidad/products/SPORT%20350/efc7f51f-6f0a-4089-97ce-80a924d2b51d_dmkxq2.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331651/EcoMovilidad/products/SPORT%20350/efc7f51f-6f0a-4089-97ce-80a924d2b51d_dmkxq2.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331651/EcoMovilidad/products/SPORT%20350/ac7e407a-3397-4a27-8d99-15e015a6c072_qddjop.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331651/EcoMovilidad/products/SPORT%20350/848f2836-bbd6-4df8-860d-81aba280110b_plszgl.jpg",
+      ""
+    ],
+    "descripcion_corta": "Moto eléctrica deportiva con buen equilibrio entre potencia y autonomía."
+  },
+  {
+    "id": 15,
+    "nombre": "FAMILY 2",
+    "precio": 5500000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50 km",
+      "velocidad_max": "35-40 km/h",
+      "motor": "650W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331648/EcoMovilidad/products/FAMILY%202/05918fc4-0d7f-43b7-9a2e-b5ea88cc2852_hmwz6a.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331650/EcoMovilidad/products/FAMILY%202/5accede5-be28-45f9-aded-a8a07df6c0ea_cfvcvm.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331647/EcoMovilidad/products/FAMILY%202/54705c51-24cc-47d0-8bc9-8998501db9c1_dn9odr.jpg",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Moto eléctrica familiar con buena autonomía y potencia."
+  },
+  {
+    "id": 16,
+    "nombre": "KWAII",
+    "precio": 3000000,
+    "especificaciones": {
+      "bateria": "",
+      "autonomia": "40 km",
+      "velocidad_max": "40 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331647/EcoMovilidad/products/KWAII/a0d218fa-306c-4fb0-b7bb-557aaaa829bc_mtt1xb.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331647/EcoMovilidad/products/KWAII/f4d3a25b-9223-4451-bb5e-fef688b23eb7_gofegf.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331647/EcoMovilidad/products/KWAII/a26834a5-81cf-499c-a143-4296d8830409_wg9lj0.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331647/EcoMovilidad/products/KWAII/325a9d2e-940d-4416-9ee2-f9e7f05b0152_gvxl7x.jpg",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
+  },
+  {
+    "id": 15648,
+    "nombre": "xxx",
+    "precio": 10000,
+    "especificaciones": {
+      "bateria": "xxx",
+      "autonomia": "xxx km",
+      "velocidad_max": "xxx km/h",
+      "motor": "xxxx",
+      "tiempo_carga": "xxx horas"
+    },
+    "imagenes": ["xxx", "xxx", "xxx", "xxx", ""],
+    "descripcion_corta": "xxx"
   }
 ]
