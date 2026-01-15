@@ -1,0 +1,27 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+    /* overflow-x: hidden; */
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --color1: #113961;
+  --color2: #A3C61A;
+}
+
+main{
+  min-height: 100dvh;
+  width: 100%;
+  position: relative;
+  background-color: #d3d3d3;
+}
+a{
+  color: black;
+  text-decoration: none;
+}

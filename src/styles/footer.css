@@ -1,7 +1,7 @@
 .footer-container {
-  position: sticky;
+  position: fixed;
   bottom: 0;
-  width: 100dvw;
+  width: 100%;
   padding: 12px;
   display: flex;
   justify-content: space-around;
@@ -13,5 +13,5 @@
     rgba(255, 255, 255, 1) 50%,
     rgb(248, 255, 219) 100%
   );
-  z-index: 2;
+  z-index: 10;
 }

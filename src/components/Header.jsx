@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 import { LuMenu } from "react-icons/lu";
 import { FaWhatsapp } from "react-icons/fa";
 
@@ -17,10 +19,15 @@ const Header = () => {
         />
       </div>
       <div className="whatsapp-container">
-        <FaWhatsapp />
+        <Link
+          to="https://wa.link/y3pwr8"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaWhatsapp />
+        </Link>
       </div>
     </div>
   );
 };
-
 export default Header;

@@ -4,6 +4,8 @@ import ProductCardHome from "../components/ProductCardHome";
 
 import productsData from "../data/products.json";
 
+import "../styles/homePage.css";
+
 const HomePage = () => {
   return (
     <div className="home-page-container">
