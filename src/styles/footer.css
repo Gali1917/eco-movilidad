@@ -7,11 +7,13 @@
   justify-content: space-around;
   font-size: 24px;
   box-shadow: 0px 0px 16px -8px black;
-  background: #a3c61a;
+  background-color: #1a202c;
+  /* background: #a3c61a;
   background: linear-gradient(
     320deg,
     rgba(255, 255, 255, 1) 50%,
     rgb(248, 255, 219) 100%
-  );
+  ); */
+  border-top: 1px solid #4a5568;
   z-index: 10;
 }

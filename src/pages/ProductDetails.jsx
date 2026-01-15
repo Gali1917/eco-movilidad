@@ -1,9 +1,47 @@
-import React from 'react'
+import React from "react";
+import { Link, useParams } from "react-router-dom";
+import productsData from "../data/products.json";
+import { FaWhatsapp } from "react-icons/fa";
+
+import "../styles/productDetails.css";
 
 const ProductDetails = () => {
-  return (
-    <div>ProductDetails</div>
-  )
-}
+  const { id } = useParams();
 
-export default ProductDetails
+  const product = productsData.find((item) => item.id === parseInt(id));
+
+  if (!product) {
+    return <div>El producto no existe</div>;
+  }
+  return (
+    <div className="product-detail">
+      <div className="img-product-conainer">
+        <img src={product.imagenes[0]} alt={product.nombre} />
+      </div>
+      <div className="text-product-container">
+        <h1>{product?.nombre}</h1>
+        <span>${product?.precio.toLocaleString("es-CO")}</span>
+        <p className="description-product-details">
+          {product?.descripcion_corta}
+        </p>
+        <ul>
+          <li>Bateria: {product.especificaciones?.bateria}</li>
+          <li>Autonomia: {product.especificaciones?.autonomia}</li>
+          <li>Velocidad: {product.especificaciones?.velocidad_max}</li>
+          <li>Motor: {product.especificaciones?.motor}</li>
+          <li>Tiempo de carga: {product.especificaciones?.tiempo_carga}</li>
+        </ul>
+        <Link
+          className="buy-button-product"
+          to="https://wa.link/y3pwr8"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaWhatsapp /> Comprar
+        </Link>
+      </div>
+    </div>
+  );
+};
+
+export default ProductDetails;

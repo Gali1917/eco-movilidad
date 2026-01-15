@@ -8,18 +8,20 @@
   justify-content: space-between;
   padding: 8px 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  background: #a3c61a;
+  background-color: #2d3748;
+  border-bottom: 1px solid #4a5568;
+  /* background: #a3c61a;
   background: linear-gradient(
     320deg,
     rgba(255, 255, 255, 1) 50%,
     rgb(248, 255, 219) 100%
-  );
+  ); */
   z-index: 10;
 }
 
 .menu-container,
-.whatsapp-container{
-    font-size: 24px;
+.whatsapp-container {
+  font-size: 24px;
 }
 
 .logo-img-container {
