@@ -316,17 +316,163 @@
     "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
   },
   {
-    "id": 15648,
-    "nombre": "xxx",
-    "precio": 10000,
+    "id": 17,
+    "nombre": "GIRL 4",
+    "precio": 4500000,
     "especificaciones": {
-      "bateria": "xxx",
-      "autonomia": "xxx km",
-      "velocidad_max": "xxx km/h",
-      "motor": "xxxx",
-      "tiempo_carga": "xxx horas"
+      "bateria": "PLomo",
+      "autonomia": "40 km",
+      "velocidad_max": "35 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6-8 horas"
     },
-    "imagenes": ["xxx", "xxx", "xxx", "xxx", ""],
-    "descripcion_corta": "xxx"
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331646/EcoMovilidad/products/GIRL%204/f82fdb76-d97b-469e-a863-02a017fcd3a2_gkuav1.jpg",
+      "xhttps://res.cloudinary.com/dd8a6qc45/image/upload/v1768331647/EcoMovilidad/products/GIRL%204/864e4693-b916-4a0d-b64b-f67af90265dd_oacy7z.jpgxx",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331646/EcoMovilidad/products/GIRL%204/255a073e-1865-4de0-b576-d2f72ead2089_a41wrt.jpg",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
+  },
+  {
+    "id": 18,
+    "nombre": "TX 350",
+    "precio": 4500000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "40 km",
+      "velocidad_max": "45 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331646/EcoMovilidad/products/TX%20350/7a46d6ef-429d-47b0-8d64-4ff8869cfb23_sedqsw.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331643/EcoMovilidad/products/TX%20350/15a99d3e-0d0f-4784-9d7d-1028d47a0b7c_jstwkr.jpg",
+      "",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
+  },
+  {
+    "id": 19,
+    "nombre": "EB-9 RAPTOR",
+    "precio": 4100000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "45 km",
+      "velocidad_max": "40 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331642/EcoMovilidad/products/EB-9%20RAPTOR/a9585903-1d52-4762-9fc0-ed16f40f59c6_w5yzhd.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331642/EcoMovilidad/products/EB-9%20RAPTOR/fd97094b-08ac-4739-a417-7170124e9ed2_sb9zhj.jpg",
+      "",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
+  },
+  {
+    "id": 20,
+    "nombre": "EB-9B RAPTOR",
+    "precio": 4200000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50 km",
+      "velocidad_max": "45 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331642/EcoMovilidad/products/EB-9B%20RAPTOR/8cd86894-24d0-4abb-95de-b6e34358f7fb_jxxzex.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331642/EcoMovilidad/products/EB-9B%20RAPTOR/47831de0-461a-4d83-80c0-4cfa5543fde3_eoolgs.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331642/EcoMovilidad/products/EB-9B%20RAPTOR/aa715c66-60fb-43db-b309-412a94aa4cdf_exxcwa.jpg",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
+  },
+  {
+    "id": 21,
+    "nombre": "PATIN CITY",
+    "precio": 2700000,
+    "especificaciones": {
+      "bateria": "Litio",
+      "autonomia": "40 km",
+      "velocidad_max": "35 km/h",
+      "motor": "800W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331642/EcoMovilidad/products/PATIN%20CITY/baa12534-5977-47bc-85ab-f4cceff2e1c6_lqpfv0.jpg",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
+  },
+  {
+    "id": 22,
+    "nombre": "CABALLERO",
+    "precio": 5000000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "40 km",
+      "velocidad_max": "35 km/h",
+      "motor": "350W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331642/EcoMovilidad/products/CABALLERO/b37afda9-3165-4e3b-bb7c-e376cdc0cee1_lcxlwx.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/CABALLERO/78da116e-8eb0-415b-825e-6bed4ec24374_jljxsp.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/CABALLERO/3a85b08a-bc47-4482-8ca8-9b4c65a17855_ujlazb.jpg",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico compacto y ágil, ideal para desplazamientos urbanos."
+  },
+  {
+    "id": 23,
+    "nombre": "Carguero Tyson",
+    "precio": 9000000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50-60 km",
+      "velocidad_max": "35 km/h",
+      "motor": "800W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/Carguero%20Tyson/adc904ed-8dd6-4eb3-b6c8-f3d0b26b13a7_u6ymum.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/Carguero%20Tyson/16e446e1-c2e4-4d19-8037-aee3ad280351_ivob3i.jpg",
+      "",
+      "",
+      ""
+    ],
+    "descripcion_corta": "Scooter eléctrico de carga con gran capacidad y autonomía para uso comercial."
+  },
+  {
+    "id": 24,
+    "nombre": "TRICICLO COCO",
+    "precio": 11000000,
+    "especificaciones": {
+      "bateria": "",
+      "autonomia": "0",
+      "velocidad_max": "",
+      "motor": "",
+      "tiempo_carga": ""
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/TRICICLO%20COCO/757ed01c-d3e0-4d41-8bba-e17333911bd0_qldssc.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/TRICICLO%20COCO/649022a6-04f7-411c-a7de-b0b7f5a80fec_uoipti.jpg",
+      "",
+      "",
+      ""
+    ],
+    "descripcion_corta": ""
   }
 ]

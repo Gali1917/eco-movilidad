@@ -2,6 +2,8 @@ import React from 'react'
 import "../styles/productCardHome.css"
 
 const ProductCardHome = ({product}) => {
+
+  const coste = (product?.precio * 5 / 100) + product?.precio
   return (
     <div className="product-card-home-container">
       <div className="img-product-card-home-container">
@@ -12,7 +14,7 @@ const ProductCardHome = ({product}) => {
           <h3>{product?.nombre}</h3>
           <p>{product.especificaciones?.autonomia}</p>
           <p>{product.especificaciones?.velocidad_max}</p>
-          <p>${product.precio?.toLocaleString('es-CO')}</p>
+          <p>${coste?.toLocaleString('es-CO')}</p>
         </div>
         <button>Ver detalles</button>
       </div>
