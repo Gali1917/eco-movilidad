@@ -1,19 +1,28 @@
 import React from "react";
-import productData from "../data/products.json";
 
 import "../styles/ad.css";
+import { Link } from "react-router-dom";
+import { FaWhatsapp } from "react-icons/fa";
 
 const Ad = () => {
   return (
     <div className="home-page-ad-container">
-      <img src={productData[0].imagenes[0]} alt={productData[0].nombre} />
+      <img src="https://res.cloudinary.com/dd8a6qc45/image/upload/v1768524590/EcoMovilidad/assets/backgroundpng-gray_q57n7q.png" alt="EcoRoa" />
       <div className="home-page-ad-text-container">
-        <h2>{productData[0].nombre}</h2>
+        <h2>Rodrigo Roa Pineda</h2>
         <p>
-          {productData[0].descripcion_corta} <br />
-          Autonomia de {productData[0].especificaciones.autonomia} <br />
+          comercial@ecoroa.org <br />
+          Cra 8 n 26 06 Yopal  <br />
+          3228305258 <br />
         </p>
-        <button className="button-home-page-ad-container">Comprar</button>
+        <Link
+          className="button-home-page-ad-container"
+          to="https://wa.link/y3pwr8"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaWhatsapp /> Contactar
+        </Link>
       </div>
     </div>
   );
