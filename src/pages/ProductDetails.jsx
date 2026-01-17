@@ -10,6 +10,9 @@ const ProductDetails = () => {
 
   const product = productsData.find((item) => item.id === parseInt(id));
 
+    const coste = (product?.precio * 5) / 100 + product?.precio;
+
+
   if (!product) {
     return <div>El producto no existe</div>;
   }
@@ -20,7 +23,7 @@ const ProductDetails = () => {
       </div>
       <div className="text-product-container">
         <h1>{product?.nombre}</h1>
-        <span>${product?.precio.toLocaleString("es-CO")}</span>
+        <span>${coste.toLocaleString("es-CO")}</span>
         <p className="description-product-details">
           {product?.descripcion_corta}
         </p>
