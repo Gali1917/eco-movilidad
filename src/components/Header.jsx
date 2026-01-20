@@ -13,10 +13,12 @@ const Header = () => {
         <LuMenu />
       </div>
       <div className="logo-img-container">
-        <img
-          src="https://res.cloudinary.com/dd8a6qc45/image/upload/v1768281785/EcoMovilidad/assets/logo-split_ycatxp.png"
-          alt="Logo"
-        />
+        <Link to="/">
+          <img
+            src="https://res.cloudinary.com/dd8a6qc45/image/upload/v1768281785/EcoMovilidad/assets/logo-split_ycatxp.png"
+            alt="Logo"
+          />
+        </Link>
       </div>
       <div className="whatsapp-container">
         <Link

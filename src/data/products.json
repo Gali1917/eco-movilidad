@@ -1,6 +1,23 @@
 [
   {
     "id": 1,
+    "nombre": "Carguero Tyson",
+    "precio": 9000000,
+    "especificaciones": {
+      "bateria": "Plomo",
+      "autonomia": "50-60 km",
+      "velocidad_max": "35 km/h",
+      "motor": "800W",
+      "tiempo_carga": "6-8 horas"
+    },
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/Carguero%20Tyson/adc904ed-8dd6-4eb3-b6c8-f3d0b26b13a7_u6ymum.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/Carguero%20Tyson/16e446e1-c2e4-4d19-8037-aee3ad280351_ivob3i.jpg"
+    ],
+    "descripcion_corta": "Scooter eléctrico de carga con gran capacidad y autonomía para uso comercial."
+  },
+  {
+    "id": 2,
     "nombre": "COCO",
     "precio": 7500000,
     "especificaciones": {
@@ -16,7 +33,7 @@
     "descripcion_corta": "Moto eléctrica ideal para trayectos cortos en la ciudad."
   },
   {
-    "id": 2,
+    "id": 3,
     "nombre": "HALCÓN EB-4",
     "precio": 3800000,
     "especificaciones": {
@@ -35,26 +52,7 @@
     ],
     "descripcion_corta": "Scooter eléctrico económico y eficiente para desplazamientos urbanos."
   },
-  {
-    "id": 3,
-    "nombre": "FAMILY P7",
-    "precio": 7500000,
-    "especificaciones": {
-      "bateria": "Plomo",
-      "autonomia": "55 km",
-      "velocidad_max": "35 km/h",
-      "motor": "800W",
-      "tiempo_carga": "6-8 horas"
-    },
-    "imagenes": [
-      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/FAMILY%20P7/cdda4acc-494a-4d2a-acd3-6d9b742afbce_vseaeu.jpg",
-      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267719/EcoMovilidad/products/FAMILY%20P7/b756265a-7691-459f-8d7a-b9e05243857d_sef7l7.jpg",
-      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/FAMILY%20P7/53169854-52c2-4f5b-87c2-06757f1a8e3d_fkqrbs.jpg",
-      "",
-      ""
-    ],
-    "descripcion_corta": "Moto eléctrica familiar con buena autonomía y potencia."
-  },
+
   {
     "id": 4,
     "nombre": "MI BIKE",
@@ -437,23 +435,23 @@
   },
   {
     "id": 23,
-    "nombre": "Carguero Tyson",
-    "precio": 9000000,
+    "nombre": "FAMILY P7",
+    "precio": 7500000,
     "especificaciones": {
       "bateria": "Plomo",
-      "autonomia": "50-60 km",
+      "autonomia": "55 km",
       "velocidad_max": "35 km/h",
       "motor": "800W",
       "tiempo_carga": "6-8 horas"
     },
     "imagenes": [
-      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/Carguero%20Tyson/adc904ed-8dd6-4eb3-b6c8-f3d0b26b13a7_u6ymum.jpg",
-      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768331641/EcoMovilidad/products/Carguero%20Tyson/16e446e1-c2e4-4d19-8037-aee3ad280351_ivob3i.jpg",
-      "",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/FAMILY%20P7/cdda4acc-494a-4d2a-acd3-6d9b742afbce_vseaeu.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267719/EcoMovilidad/products/FAMILY%20P7/b756265a-7691-459f-8d7a-b9e05243857d_sef7l7.jpg",
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768267720/EcoMovilidad/products/FAMILY%20P7/53169854-52c2-4f5b-87c2-06757f1a8e3d_fkqrbs.jpg",
       "",
       ""
     ],
-    "descripcion_corta": "Scooter eléctrico de carga con gran capacidad y autonomía para uso comercial."
+    "descripcion_corta": "Moto eléctrica familiar con buena autonomía y potencia."
   },
   {
     "id": 24,

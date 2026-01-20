@@ -2,6 +2,11 @@ import React from "react";
 import { Link, useParams } from "react-router-dom";
 import productsData from "../data/products.json";
 import { FaWhatsapp } from "react-icons/fa";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+import { Autoplay, Navigation, Pagination } from "swiper/modules";
 
 import "../styles/productDetails.css";
 
@@ -10,16 +15,33 @@ const ProductDetails = () => {
 
   const product = productsData.find((item) => item.id === parseInt(id));
 
-    const coste = (product?.precio * 5) / 100 + product?.precio;
-
+  const coste = (product?.precio * 5) / 100 + product?.precio;
 
   if (!product) {
     return <div>El producto no existe</div>;
   }
+
   return (
     <div className="product-detail">
-      <div className="img-product-conainer">
-        <img src={product.imagenes[0]} alt={product.nombre} />
+      <div className="img-product-container">
+        <Swiper
+          modules={[Autoplay, Pagination, Navigation]}
+          spaceBetween={20}
+          slidesPerView={1}
+          navigation={true}
+          pagination={{ clickable: true }}
+          autoplay={{ delay: 4000, disableOnInteraction: false }}
+          className="mySwiper"
+        >
+          {product?.imagenes &&
+            product.imagenes.map((img, index) => (
+              (img !== "") && ( 
+              <SwiperSlide key={index}>
+                <img src={img} alt={`${product.nombre} - ${index} `} />
+              </SwiperSlide>
+            )))}
+        </Swiper>
+        {/* <img src={product.imagenes[0]} alt={product.nombre} /> */}
       </div>
       <div className="text-product-container">
         <h1>{product?.nombre}</h1>

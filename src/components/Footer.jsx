@@ -4,6 +4,7 @@ import {
   IoSearchOutline,
   IoHeartOutline,
   IoLogoWhatsapp,
+  IoInformationCircleOutline,
 } from "react-icons/io5";
 
 import "../styles/footer.css";
@@ -13,8 +14,12 @@ import { FaWhatsapp } from "react-icons/fa";
 const Footer = () => {
   return (
     <div className="footer-container">
-      <IoHomeOutline />
-      <IoSearchOutline />
+      <Link to="/">
+        <IoHomeOutline />
+      </Link>
+      <Link to="/nosotros/">
+        <IoInformationCircleOutline />
+      </Link>
       {/* <IoHeartOutline /> */}
       <Link
         to="https://wa.link/y3pwr8"
