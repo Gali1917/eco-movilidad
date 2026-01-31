@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "bside",
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1769871987/EcoMovilidad/assets/bside_mugf0u.png"
+    ],
+    "descripcion_corta": "Tarjeta b"
+  },
+  {
+    "id": 2,
+    "nombre": "aside",
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1769871987/EcoMovilidad/assets/aside_f47pq7.png"
+    ],
+    "descripcion_corta": "Tarjeta a"
+  },
+  {
+    "id": 3,
+    "nombre": "logoa",
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1769871987/EcoMovilidad/assets/IMG-20260119-WA0008.jpg_ic5noi.png"
+    ],
+    "descripcion_corta": "Logo a"
+  },
+  {
+    "id": 4,
+    "nombre": "logob",
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1769871987/EcoMovilidad/assets/file_00000000700c71f59b2dcf600b846c34_jjzfoa.png"
+    ],
+    "descripcion_corta": "logo b"
+  },
+  {
+    "id": 5,
+    "nombre": "roa",
+    "imagenes": [
+      "https://res.cloudinary.com/dd8a6qc45/image/upload/v1768524590/EcoMovilidad/assets/backgroundpng-gray_q57n7q.png"
+    ],
+    "descripcion_corta": "roa"
+  }
+]

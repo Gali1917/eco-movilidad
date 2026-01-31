@@ -37,11 +37,10 @@ const ProductDetails = () => {
             product.imagenes.map((img, index) => (
               (img !== "") && ( 
               <SwiperSlide key={index}>
-                <img src={img} alt={`${product.nombre} - ${index} `} />
+                <img src={img} alt={`${product.nombre} - ${index} `} className="product-image"/>
               </SwiperSlide>
             )))}
         </Swiper>
-        {/* <img src={product.imagenes[0]} alt={product.nombre} /> */}
       </div>
       <div className="text-product-container">
         <h1>{product?.nombre}</h1>

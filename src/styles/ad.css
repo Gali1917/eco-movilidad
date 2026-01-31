@@ -3,15 +3,28 @@
   margin: 12px auto 24px;
   width: 100%;
   max-width: 1224px;
-  max-height: 68dvh;
   aspect-ratio: 16/9;
+  max-height: 68dvh;
   border-radius: 0 0 20px 20px;
   overflow: hidden;
 }
-.home-page-ad-container img {
-  height: 100%;
+.mySwiperAds{
   width: 100%;
-  object-fit: cover;
+  height: 100%;
+}
+
+.mySwiperAds .swiper-slide{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.ad-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; 
+  display: block;
 }
 .home-page-ad-text-container {
   display: flex;
